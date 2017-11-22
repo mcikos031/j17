@@ -1,5 +1,5 @@
 drop database if exists edunovaj17;
-create database edunovaj17;
+create database edunovaj17 character set utf8;
 
 use edunovaj17;
 
